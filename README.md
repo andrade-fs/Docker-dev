@@ -1,5 +1,5 @@
 # Docker-dev
-Hi everyone, to start select a folder that contains who yo want to install, i recomend use in Linux.
+Hi everyone, to start select a folder that contains what yo want to install, i recomend use in Linux.
 
 - Start
 
